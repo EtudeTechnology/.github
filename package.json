@@ -1,0 +1,12 @@
+{
+  "name": ".github",
+  "module": "index.ts",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "prettier": "^3.5.3"
+  }
+}
