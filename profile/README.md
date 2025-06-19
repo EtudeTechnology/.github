@@ -1,8 +1,8 @@
-# Etude Technology
+# Etude Technologies
 
-Welcome to **Etude Technology**!
+Welcome to **Etude Technologies**!
 
-Etude Technology is dedicated to empowering learners and professionals by providing high-quality practice exams for a wide range of government and private sector examinations. Our mission is to make exam preparation accessible, effective, and engaging for everyone.
+Etude Technologies is dedicated to empowering learners and professionals by providing high-quality practice exams for a wide range of government and private sector examinations. Our mission is to make exam preparation accessible, effective, and engaging for everyone.
 
 ## 🚀 What We Do
 
@@ -10,7 +10,7 @@ Etude Technology is dedicated to empowering learners and professionals by provid
 - **Coverage:** Government exams, private sector certifications, and more.
 - **User-Centric:** Designed for students, job seekers, and professionals aiming for success.
 
-## 🌟 Why Choose Etude Technology?
+## 🌟 Why Choose Etude Technologies?
 
 - **Accurate & Relevant Content:** Our practice exams are crafted by experts and regularly updated.
 - **Performance Analytics:** Get detailed feedback and insights to track your progress.
@@ -22,4 +22,4 @@ We welcome contributions and collaborations! If you are passionate about educati
 
 ---
 
-**Etude Technology** – Your partner in exam success.
+**Etude Technologies** – Your partner in exam success.
