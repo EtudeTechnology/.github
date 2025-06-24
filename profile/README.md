@@ -2,7 +2,7 @@
 
 Welcome to **Astralsy**!
 
-Astralsy is dedicated to empowering learners and professionals by providing high-quality practice exams for a wide range of government and private sector examinations. Our mission is to make exam preparation accessible, effective, and engaging for everyone.
+Astralsy is dedicated to delivering innovative AI solutions to solve real-world challenges and transform everyday experiences.
 
 ## 🚀 What We Do
 
